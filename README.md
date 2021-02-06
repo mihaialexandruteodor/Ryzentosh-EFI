@@ -9,6 +9,7 @@ My tower config
 |Part                         |Model                         |
 |-------------------------------|-----------------------------|
 |CPU            |`Ryzen 5 1400`          |
+|GPU            |`RX 560 2GB`          |
 |MOBO            |`B450M-DS3H`           |
 |SSD| `2xKingstone 256GB`|
 |RAM| `16GB DDR4 2666 Mhz`|
