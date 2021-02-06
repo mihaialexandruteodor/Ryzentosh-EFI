@@ -37,5 +37,5 @@ Special note for 3990X users: macOS currently does not support more than 64 thre
 * SATA Mode: AHCI
 
 
-##Various
+## Various
 If the Apple logo is too big on boot, Reset NVRAM when booting from the OpenCore boot menu
