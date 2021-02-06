@@ -1,6 +1,6 @@
 ## OS: Big Sur 11.2
 
-Tutorial folowed : https://www.youtube.com/watch?v=DqrshDmNFu4&t=2101s
+Tutorial followed : https://www.youtube.com/watch?v=DqrshDmNFu4&t=2101s
 
 ## Parts
 
