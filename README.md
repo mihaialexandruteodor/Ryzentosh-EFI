@@ -20,7 +20,7 @@ My tower config
 AMD virtualization not supported by Apple, so no VM. Also no FaceTime.
 
 ## BIOS settings
-*Disable
+* Disable
 Fast Boot
 Secure Boot
 Serial/COM Port
