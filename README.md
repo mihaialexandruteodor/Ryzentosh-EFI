@@ -11,7 +11,7 @@ My tower config
 |CPU            |`Ryzen 5 1400`          |
 |GPU            |`RX 560 2GB`          |
 |MOBO            |`B450M-DS3H`           |
-|RAM| `16GB DDR4 2666 Mhz - dual channel`|
+|RAM| `16GB DDR4 2400 Mhz - dual channel`|
 |SSD| `2xKingston 256GB`|
 |PSU| `Inter-Tech 650W`|
 ||`Tested with 2 Monitors, Apple Magic Keyboard 2, blutooth mice, various peripherals, all working`|
